@@ -1,6 +1,6 @@
 # TestProject
 
-Test project for interview at Immersive.io. This is an Android app for mobile and XR device that displays a list of videos and allows the user to play them. The application is built with Jetpack Compose using MVVM architecture.
+This is an Android app for mobile and XR device that displays a list of videos and allows the user to play them. The application is built with Jetpack Compose using MVVM architecture.
 
 ## Features
 
